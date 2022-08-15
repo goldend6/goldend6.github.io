@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Golden D6 - Your online hobby magazine</title>
+    <title>The Golden D6</title>
     <link>https://goldend6.github.io/</link>
-    <description>Recent content on The Golden D6 - Your online hobby magazine</description>
+    <description>Recent content on The Golden D6</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 15 Aug 2022 13:32:45 +1000</lastBuildDate>
     
 	<atom:link href="https://goldend6.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Privacy policy</title>
+      <link>https://goldend6.github.io/privacy/</link>
+      <pubDate>Mon, 15 Aug 2022 13:32:45 +1000</pubDate>
+      
+      <guid>https://goldend6.github.io/privacy/</guid>
+      <description>This is the Golden D6 privacy policy.</description>
+    </item>
     
   </channel>
 </rss>
