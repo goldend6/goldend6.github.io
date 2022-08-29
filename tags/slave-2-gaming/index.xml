@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Slave 2 Gaming on The Golden D6</title>
+    <link>https://goldend6.github.io/tags/slave-2-gaming/</link>
+    <description>Recent content in Slave 2 Gaming on The Golden D6</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://goldend6.github.io/tags/slave-2-gaming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A review of Slave 2 Gaming miniatures</title>
+      <link>https://goldend6.github.io/slave-2-gaming-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://goldend6.github.io/slave-2-gaming-review/</guid>
+      <description>This is a review of the miniatures produced by the Australian company Slave 2 Gaming.</description>
+    </item>
+    
+  </channel>
+</rss>
